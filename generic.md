@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Out Of The Box
+description: My life outside of university and work
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

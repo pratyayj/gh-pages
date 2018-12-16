@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Personal Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Filmmakers have their passion projects, so do I
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
