@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Out Of The Box
 description: My life outside of university and work
 image: assets/images/pic11.jpg
