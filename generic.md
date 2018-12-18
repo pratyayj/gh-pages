@@ -12,14 +12,16 @@ nav-menu: true
 <section id="one">
     <div class ="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Out Of The Box</h1>
 		</header>
+
+        <p>Academic and work pursuits are only but a part of who I am. Whenever the opportunity comes for me to try something new and out of my comfort zone, I never fail to seize it. The following is an assortment of my pursuits that have brought me much joy and growth.</p>
 
 <!-- Content -->
     <div class="row">
         <div class="6u 12u$(small)">
             <h3>Transit</h3>
-            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+            <p>In March 2018, a group of friends and I participated in a 52-hour short film competition, Point & Shoot, organized by NUStudios. The theme for the competition, revealed to us only at the start of the time period, was 'Mirror'. With a keen passion for film and film-making and having learnt Premiere Pro and After Effects on my own in Junior College for Student Council events, to have the chance to produce a short film of my own was an opportunity that I could not pass up. The film centers around two people who relive their memories of a once intimate connection.</p>
         </div>
         <div class="6u$ 12u$(small)">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
