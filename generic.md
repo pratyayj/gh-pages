@@ -34,7 +34,7 @@ nav-menu: true
             </div>
             <div class="6u$ 12u$(small)">
                 <div class ="iframe-container">
-                <a href="https://www.youtube.com/embed/M3lsDXYmo-M"><img src="assets/images/f1_2017.jpg" alt="" /></a>
+                <a href="http://www.youtube.com/watch?v=M3lsDXYmo-M"><img src="assets/images/transit.jpg" alt="" /></a>
                 </div>
             </div>
 
