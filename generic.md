@@ -26,9 +26,7 @@ nav-menu: true
             <div class="6u$ 12u$(small)">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="5" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-        </div>
 
-        <div class="row">
             <div class="6u$ 12u$(small)">
                 <span class="image fit"><img src="assets/images/f1_2017.jpg" alt="" /></span>
             </div>
@@ -36,7 +34,8 @@ nav-menu: true
                 <h3>Race Official, F1 Singapore Grand Prix</h3>
                 <p>Since 2016, I've been a part of the team of dedicated and committed race officials team for the F1 Singapore Grand Prix. For each of the three years, I've been involved in three different roles: trackside marshal, flag marshal and newsletter official. Each of these three roles have provided me a unique volunteering experience in this event that is now a hallmark of Singapore's calendar.</p>
             </div>
-        </div>
+
+            </div>
     </div>
 
 </section>
