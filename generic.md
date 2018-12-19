@@ -28,7 +28,6 @@ nav-menu: true
             </div>
 
             <div class="6u 12u$(small)">
-		        <h3>Sem turpis amet semper</h3>
 		        <p><span class="image fit"><img src="assets/images/f1_2017.jpg" alt="" /></span></p>
 	        </div>
 	        <div class="6u$ 12u$(small)">
