@@ -20,7 +20,7 @@ nav-menu: true
 <!-- Content -->
         <div class="row">
             <div class="6u 12u$(small)">
-		        <span class="image fit"><img src="assets/images/epiic.jpg" alt="" /></span>
+		        <span class="image fit"><img src="assets/images/epiic.jpeg" alt="" /></span>
 	        </div>
 	        <div class="6u$ 12u$(small)">
 		        <h3>Education for Public Inquiry and International Citizenship (EPIIC) International Symposium</h3>
