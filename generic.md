@@ -28,7 +28,7 @@ nav-menu: true
             </div>
 
             <div class="6u$ 12u$(small)">
-                <span class="image fit"><img src="assets/images/f1_2017.jpg" alt="" /></span>
+                <img src="assets/images/f1_2017.jpg" alt="" />
             </div>
             <div class="6u 12u$(small)">
                 <h3>Race Official, F1 Singapore Grand Prix</h3>
