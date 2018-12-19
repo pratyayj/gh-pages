@@ -27,7 +27,7 @@ nav-menu: true
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="5" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <div class="6u 12u$(small)">
+            <div class="6u 12u$(small) responsiveframe">
 		        <span class="image fit"><img src="assets/images/f1_2017.jpg" alt="" /></span>
 	        </div>
 	        <div class="6u$ 12u$(small)">
