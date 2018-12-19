@@ -52,14 +52,6 @@ nav-menu: true
             <div class="6u$ 12u$(small)">
                 <span class="image fit"><img src="assets/images/connect_y2s1.jpg" alt="" /></span>
             </div>
-
-	        <div class="6u$ 12u$(small)">
-		        <h3>Mentor, Connect Tuition and Mentorship Programme</h3>
-		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. In addition, we organise other co-curricular activities when the students are done with their academic year to pique the their interest in a variety of pursuits.</p>
-	        </div>
-            <div class="6u 12u$(small)">
-		        <span class="image fit"><img src="assets/images/connect_y2s1.jpg" alt="" /></span>
-	        </div>
         </div>
     </div>
 
