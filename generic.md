@@ -2,6 +2,7 @@
 layout: page
 title: Out Of The Box
 description: My life outside of university and work
+image: assets/images/ootbimage.jpg
 nav-menu: true
 ---
 
@@ -29,11 +30,11 @@ nav-menu: true
             
             <div class="6u 12u$(small)">
                 <h3>Transit</h3>
-                <p>In March 2018, a group of friends and I participated in a 52-hour short film competition, Point & Shoot, organized by NUStudios. The theme for the competition, revealed to us only at the start of the time period, was 'Mirror'. With a keen passion for film and film-making and having learnt Premiere Pro and After Effects on my own in Junior College for Student Council events, to have the chance to produce a short film of my own was an opportunity that I could not pass up. The film centers around two people who relive their memories of a once intimate connection.</p>
+                <p>In March 2018, a group of friends and I participated in a 52-hour short film competition, Point & Shoot, organized by NUStudios. The theme for the competition, revealed to us only at the start of the time period, was 'Mirror'. With a keen passion for film and film-making and having learnt Premiere Pro and After Effects on my own in Junior College for Student Council events, to have the chance to produce a short film of my own was an opportunity that I could not pass up. The film centers around two people who relive their memories of a once intimate connection. Our short film was given an Honourable Mention at the Frameworks Film Festival 2018. Click the image to view the film on YouTube.</p>
             </div>
             <div class="6u$ 12u$(small)">
                 <div class ="iframe-container">
-                <iframe width="600" height="337" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <a href="https://www.youtube.com/embed/M3lsDXYmo-M"><img src="assets/images/f1_2017.jpg" alt="" /></a>
                 </div>
             </div>
 
@@ -47,7 +48,7 @@ nav-menu: true
 
             <div class="6u 12u$(small)">
                 <h3>Mentor, Connect Tuition and Mentorship Programme</h3>
-		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. In addition, we organise other co-curricular activities when the students are done with their academic year to pique the their interest in a variety of pursuits.</p>
+		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. In addition, we organise other co-curricular activities when the students are done with their academic year to pique the their interest in a variety of pursuits. I taught students the basics of photography and photo editing during one of these enrichment sessions.</p>
             </div>
             <div class="6u$ 12u$(small)">
                 <span class="image fit"><img src="assets/images/connect_y2s1.jpg" alt="" /></span>
