@@ -23,9 +23,9 @@ nav-menu: true
                 <div class="6u 12u$(small)">
 		        <span class="image fit"><img src="assets/images/jalan_home.jpg" alt="" /></span>
                 </div>
-                <span class="image fit"><img src="assets/images/jalan_poi.jpg" alt="" /></span>
+
                 <div class="6u 12u$(small)">
-                
+                <span class="image fit"><img src="assets/images/jalan_poi.jpg" alt="" /></span>               
                 </div>
 	        </div>
 	        <div class="6u$ 12u$(small)">
