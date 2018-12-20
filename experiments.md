@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Personal Projects
-description: My life outside of university and work
-image: assets/images/ootbimage.jpg
+image: assets/images/orbital.jpg
 nav-menu: true
 ---
 <!-- orignally generic -->
@@ -13,18 +12,24 @@ nav-menu: true
 <section id="one">
     <div class ="inner">
 		<header class="major">
-			<h1>Out Of The Box</h1>
+			<h1>Personal Projects</h1>
 		</header>
 
-        <p>Academic and work pursuits are but a part of who I am. Whenever the opportunity comes for me to try something new and out of my comfort zone, I never fail to seize it. The following is an assortment of my pursuits that have brought me much joy and growth.</p>
+        <p>Just as Martin Scorsese had Silence, I have my own personal project(s) as well. Specifically, I find that software engineering is both an art and a science for me, and I love experimenting. I'm hoping to delve particularly into the area where the arts and culture meets tech. I believe there's much to explore there and so if you have any projects on that front please do drop me a message!</p>
 
 <!-- Content -->
         <div class="row">
             <div class="6u 12u$(small)">
-		        <span class="image fit"><img src="assets/images/epiic.jpeg" alt="" /></span>
+                <div class="6u 12u$(small)">
+		        <span class="image fit"><img src="assets/images/jalan_home.jpg" alt="" /></span>
+                </div>
+                <span class="image fit"><img src="assets/images/jalan_poi.jpg" alt="" /></span>
+                <div class="6u 12u$(small)">
+                
+                </div>
 	        </div>
 	        <div class="6u$ 12u$(small)">
-		        <h3>Education for Public Inquiry and International Citizenship (EPIIC) International Symposium</h3>
+		        <h3>jalan jalan</h3>
 		        <p>Being a Computer Science major does not mean that my interests are confined to just that! Global affairs and international relations are two areas that I keep a close eye on and engage in frequent discussions about. In March 2018, I was given the opportunity to be a part of the Singapore and NUS delegation to the EPIIC International Symposium held at Tufts University where I had the chance to enagge in panel discussions with leaders in a variety of fields, students from the world over and even military personnel on the issue, 'Is the Liberal World Order Ending?'. The picture shows the Singapore delegation with the Deputy Secretary General of the United Nationals, Amina J. Mohammed.</p>
 	        </div>
             
