@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>Personal Projects</h1>
 		</header>
 
-        <p>Just as Martin Scorsese had Silence, I have my own personal project(s) as well. Specifically, I find that software engineering is both an art and a science for me, and I love experimenting. I'm hoping to delve particularly into the area where the arts and culture meets tech. I believe there's much to explore there and so if you have any projects on that front please do drop me a message!</p>
+        <p>Just as Martin Scorsese had Silence, I have my own personal passion project(s) as well. Specifically, I find that software engineering is both an art and a science for me, and I love experimenting. I'm hoping to delve particularly into the area where the arts and culture meets tech. I believe there's much to explore there and so if you have any projects on that front please do drop me a message! 😊</p>
 
 <!-- Content -->
         <div class="row">
