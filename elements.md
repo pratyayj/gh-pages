@@ -2,7 +2,7 @@
 layout: page
 title: My Experience
 description: Work and Academics
-image: assets/images/speaking.jpg
+image: assets/images/speaking.JPG
 nav-menu: true
 ---
 
