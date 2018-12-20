@@ -4,6 +4,7 @@ title: Out Of The Box
 description: My life outside of university and work
 image: assets/images/ootbimage.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
