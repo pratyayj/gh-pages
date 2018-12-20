@@ -20,7 +20,7 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<span class="image fit"><img src="assets/images/sd.png" alt="" width="400" height="400"/></span>
+				<img src="assets/images/sd.png" alt="" width="400" height="400"/>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<h3>Innovation Project Intern, Savant Degrees</h3>
