@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>Out Of The Box</h1>
 		</header>
 
-        <p>Academic and work pursuits are only but a part of who I am. Whenever the opportunity comes for me to try something new and out of my comfort zone, I never fail to seize it. The following is an assortment of my pursuits that have brought me much joy and growth.</p>
+        <p>Academic and work pursuits are but a part of who I am. Whenever the opportunity comes for me to try something new and out of my comfort zone, I never fail to seize it. The following is an assortment of my pursuits that have brought me much joy and growth.</p>
 
 <!-- Content -->
         <div class="row">
