@@ -6,7 +6,7 @@ image: assets/images/ootbimage.jpg
 nav-menu: true
 show_tile: true
 ---
-
+<!-- orignally generic -->
 <!-- Main -->
 <div id="main" class="alt">
 

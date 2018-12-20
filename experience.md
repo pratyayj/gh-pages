@@ -5,7 +5,7 @@ description: Work and Academics
 image: assets/images/speaking.JPG
 nav-menu: true
 ---
-
+<!--- originally elements>
 <!-- Main -->
 <div id="main" class="alt">
 
