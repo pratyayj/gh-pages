@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Experience
+image: assets/images/speaking.jpg
 nav-menu: true
 ---
 
