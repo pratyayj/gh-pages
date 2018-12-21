@@ -66,7 +66,6 @@ nav-menu: true
 				</div>
 		</div>
 		<br>
-		<br>
 		<div class="row">
 				<div class="6u 12u$(small)">
 					<img src="assets/images/hwach.jpg" alt=""/>
