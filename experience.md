@@ -32,6 +32,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
+		<hr />
 <h2 id="content">Education</h2>
 		<div class="row">
 				<div class="6u 12u$(small)">
