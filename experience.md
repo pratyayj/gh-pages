@@ -44,9 +44,11 @@ nav-menu: true
 						<li>23rd NUS Students' Union (NUSSU) Public Relations Unit – Vice-Chairperson.</li>
 						<li>22nd NUS Students' Union (NUSSU) Public Relations Unit – Public Relations Executive.</li>
 					</ul>
-					<br>
+					
 				</div>
 		</div>
+		<br>
+		<br>
 		<div class="row">
 				<div class="6u 12u$(small)">
 					<img src="assets/images/usp.jpg" alt=""/>
