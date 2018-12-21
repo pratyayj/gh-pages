@@ -32,6 +32,19 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
+<h2 id="content">Education</h2>
+		<div class="row">
+				<div class="6u 12u$(small)">
+					<img src="assets/images/soc.JPG" alt="" width="400" height="400"/>
+				</div>
+				<div class="6u$ 12u$(small)">
+					<h3>Computer Science, School of Computing, National University of Singapore</h3>
+					<ul>
+						<li>23rd NUS Students' Union (NUSSU) Public Relations Unit – Vice-Chairperson</li>
+						<li>22nd NUS Students' Union (NUSSU) Public Relations Unit – Public Relations Executive.</li>
+					</ul>
+				</div>
+		</div>
 	</div>
 
 </section>
