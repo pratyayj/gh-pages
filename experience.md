@@ -58,10 +58,26 @@ nav-menu: true
 					<ul>
 						<li>Publicity and Communications Leader, USP Ambassadors Executive Committee (EXCO).</li>
 						<li>Represented Singapore and NUS at the Education for Public Inquiry and International Citizenship (EPIIC) International Symposium at Tufts University in March 2018.</li>
-						<li>7th House Committee - Vice-Captain for Academic Year 2017/18</li>
+						<li>7th House Committee - Vice-Captain for Academic Year 2017/18.</li>
 						<li>Connect Tuition and Mentorship Programme</li>
-						<li>End of Semester 1 Dinner Organizing Committee, Academic Year 2017/18</li>
-						<li>Road Relay Interest Group</li>
+						<li>End of Semester 1 Dinner Organizing Committee, Academic Year 2017/18.</li>
+						<li>Road Relay Interest Group.</li>
+					</ul>
+				</div>
+		</div>
+		<br>
+		<br>
+		<div class="row">
+				<div class="6u 12u$(small)">
+					<img src="assets/images/hwach.jpeg" alt=""/>
+				</div>
+				<div class="6u$ 12u$(small)">
+					<h3>Hwa Chong Institution</h3>
+					<ul>
+						<li>40th Students' Council – Internal Projects Coordinator.</li>
+						<li>Organizing Committee for the 7th Hwa Chong Asia Pacific Young Leaders Summit.</li>
+						<li>Represented Hwa Chong at Pre-University Summit 2013.</li>
+						<li>Represented Hwa Chong Institution at the 5th International Science Youth Forum.</li>
 					</ul>
 				</div>
 		</div>
