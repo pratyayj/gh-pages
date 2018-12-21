@@ -60,6 +60,16 @@ nav-menu: true
                 <span class="image fit"><img src="assets/images/connect_y2s1.jpg" alt="" /></span>
             </div>
         </div>
+        <hr />
+        <div class="row">
+            <div class="6u 12u$(small)">
+		        <span class="image fit"><img src="assets/images/goody.jpg" alt="" /></span>
+	        </div>
+	        <div class="6u$ 12u$(small)">
+		        <h3>Goody 2 Shoes</h3>
+		        <p>As an Internal Project Coordinator in the 40th Hwa Chong Students' Council, my working partner and I organized Goody 2 Shoes, a school-wide shoes donation drive for victims of Typhoon Sendong in the Philippines. We amassed a grand total of a 1000 shoes in the process. Indeed, the process went to show that though individually we may not be able to do much, small acts of love add up to something big.</p>
+	        </div>
+        </div>
     </div>
 
 </section>
