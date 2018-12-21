@@ -69,7 +69,7 @@ nav-menu: true
 		<br>
 		<div class="row">
 				<div class="6u 12u$(small)">
-					<img src="assets/images/hwach.jpeg" alt=""/>
+					<img src="assets/images/hwach.jpg" alt=""/>
 				</div>
 				<div class="6u$ 12u$(small)">
 					<h3>Hwa Chong Institution</h3>
