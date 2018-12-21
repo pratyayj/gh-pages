@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Pratyay!'
 description: null
-image: null
+image: assets/images/pratyay.jpg
 author: null
 show_tile: false
 ---
