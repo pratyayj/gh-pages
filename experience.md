@@ -48,7 +48,7 @@ nav-menu: true
 		</div>
 		<div class="row">
 				<div class="6u 12u$(small)">
-					<img src="assets/images/usp.JPG" alt=""/>
+					<img src="assets/images/usp.jpg" alt=""/>
 				</div>
 				<div class="6u$ 12u$(small)">
 					<h3>University Scholars Programme, National University of Singapore</h3>
