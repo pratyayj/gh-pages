@@ -35,7 +35,7 @@ nav-menu: true
 <h2 id="content">Education</h2>
 		<div class="row">
 				<div class="6u 12u$(small)">
-					<span class="image fit"><img src="assets/images/soc.JPG" alt=""/></span>
+					<img src="assets/images/soc.JPG" alt=""/>
 				</div>
 				<div class="6u$ 12u$(small)">
 					<h3>Computer Science, School of Computing, National University of Singapore</h3>
