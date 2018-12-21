@@ -27,7 +27,9 @@ nav-menu: true
 		        <h3>Education for Public Inquiry and International Citizenship (EPIIC) International Symposium</h3>
 		        <p>Being a Computer Science major does not mean that my interests are confined to just that! Global affairs and international relations are two areas that I keep a close eye on and engage in frequent discussions about. In March 2018, I was given the opportunity to be a part of the Singapore and NUS delegation to the EPIIC International Symposium held at Tufts University where I had the chance to enagge in panel discussions with leaders in a variety of fields, students from the world over and even military personnel on the issue, 'Is the Liberal World Order Ending?'. The picture shows the Singapore delegation with the Deputy Secretary General of the United Nationals, Amina J. Mohammed.</p>
 	        </div>
-            <hr />
+        </div>
+        <hr />
+        <div class="row">
             <div class="6u 12u$(small)">
                 <h3>Transit</h3>
                 <p>In March 2018, a group of friends and I participated in a 52-hour short film competition, Point & Shoot, organized by NUStudios. The theme for the competition, revealed to us only at the start of the time period, was 'Mirror'. With a keen passion for film and film-making and having learnt Premiere Pro and After Effects on my own in Junior College for Student Council events, to have the chance to produce a short film of my own was an opportunity that I could not pass up. The film centers around two people who relive their memories of a once intimate connection. Our short film was given an Honourable Mention at the Frameworks Film Festival 2018. Click the image to view the film on YouTube.</p>
@@ -37,7 +39,9 @@ nav-menu: true
                 <a href="http://www.youtube.com/watch?v=M3lsDXYmo-M"><img src="assets/images/transit.png" alt="" /></a>
                 </div>
             </div>
+        </div>
             <hr />
+        <div class="row">
             <div class="6u 12u$(small)">
 		        <span class="image fit"><img src="assets/images/f1_2017.jpg" alt="" /></span>
 	        </div>
@@ -45,7 +49,9 @@ nav-menu: true
 		        <h3>Race Official, F1 Singapore Grand Prix</h3>
 		        <p>Since 2016, I've been a part of the team of dedicated and committed race officials team for the F1 Singapore Grand Prix. For each of the three years, I've been involved in three different roles: trackside marshal, flag marshal and newsletter official. Each of these three roles have provided me a unique volunteering experience in this event that is now a hallmark of Singapore's calendar.</p>
 	        </div>
+        </div>
             <hr />
+        <div class="row">
             <div class="6u 12u$(small)">
                 <h3>Mentor, Connect Tuition and Mentorship Programme</h3>
 		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. In addition, we organise other co-curricular activities when the students are done with their academic year to pique the their interest in a variety of pursuits. I taught students the basics of photography and photo editing during one of these enrichment sessions.</p>
