@@ -46,6 +46,22 @@ nav-menu: true
 					</ul>
 				</div>
 		</div>
+		<div class="row">
+				<div class="6u 12u$(small)">
+					<img src="assets/images/usp.JPG" alt=""/>
+				</div>
+				<div class="6u$ 12u$(small)">
+					<h3>University Scholars Programme, National University of Singapore</h3>
+					<ul>
+						<li>Publicity and Communications Leader, USP Ambassadors Executive Committee (EXCO).</li>
+						<li>Represented Singapore and NUS at the Education for Public Inquiry and International Citizenship (EPIIC) International Symposium at Tufts University in March 2018.</li>
+						<li>7th House Committee - Vice-Captain for Academic Year 2017/18</li>
+						<li>Connect Tuition and Mentorship Programme</li>
+						<li>End of Semester 1 Dinner Organizing Committee, Academic Year 2017/18</li>
+						<li>Road Relay Interest Group</li>
+					</ul>
+				</div>
+		</div>
 	</div>
 
 </section>
