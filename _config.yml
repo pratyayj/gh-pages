@@ -3,7 +3,7 @@ title: Pratyay Jaidev
 subtitle:
 email: pratyay.jaidev@gmail.com
 description: Focused, driven, people-oriented.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: pratyayj.com # the base hostname & protocol for your site
 author:
 street_address: National University of Singapore
