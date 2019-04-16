@@ -35,8 +35,16 @@ nav-menu: true
 			<div class="6u$ 12u$(small)">
 		        <h3>Restaurant Booking App</h3>
 		        <p>As a part of the database systems introductory module I took at college, my project team and I were tasked with building a restaurant booking application. We used HTML5 and CSS for the front-end (taking advantage of Bootstrap styling) and used NodeJS and PostgreSQL for the back-end. I was involved with the development of the administrator-facing system (editing of customers, bookings, restaurants, cuisine, branch and viewing of statistics). Furthermore, I did the UI for the administrator-facing system. I also created the rating system for customers to rate restaurant branches. Through this project I also honed my skills in modelling entity-relation (ER) diagrams and I was involved in the creation of the final ER diagram for submission.</p>
-	        </div>
-			     
+	        </div>	     
+        </div>
+		<div class="row">
+            <div class="6u 12u$(small)">
+		        <span class="image fit"><img src="assets/images/hakka-documentation.PNG" alt="" /></span>
+	        </div>    
+			<div class="6u$ 12u$(small)">
+		        <h3>Hakka Language Documentation Project</h3>
+		        <p>Being a minor student in linguistics as part of my interest for Natural Language Processing, I took a module in Language Documentation where for our final submission we were tasked with using programs such as ELAN and FLEx to create a transcription and dictionary (respectively) of a heritage language in Singapore. To better present our end product, I exported the files in HTML and XHTML formats and did some tweaking to allow for search functionality, allow for audio to be played in the browser itself and linked the transcription and dictionary files together.</p>
+	        </div>	     
         </div>
     </div>
 
