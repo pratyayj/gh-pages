@@ -26,7 +26,7 @@ nav-menu: true
             </div>
             <div class="6u$ 12u$(small)">
                 <div class="iframe-container">
-                <span class="image fit"><a href="https://www.youracclaim.com/badges/37d4cc18-94c6-43c6-af36-4990bd33e51c/public_url"><img src="assets/images/OCI_cert.PNG" alt="" /></a></span>
+                <a href="https://www.youracclaim.com/badges/37d4cc18-94c6-43c6-af36-4990bd33e51c/public_url"><img src="assets/images/OCI_cert.PNG" alt="" /></a>
                 </div>
             </div>
         </div>
