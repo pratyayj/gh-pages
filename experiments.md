@@ -29,11 +29,13 @@ nav-menu: true
         </div>
 		<div class="row">
             <div class="6u 12u$(small)">
-		        <span class="image fit"><img src="assets/images/hakka-documentation.PNG" alt="" /></span>
-	        </div>    
+				<div class ="iframe-container">
+		        	<a href="http://hakka-documentation.s3-website-ap-southeast-1.amazonaws.com/"><img src="assets/images/hakka-documentation.PNG" alt="" /></a>
+	        	</div>    
+			</div>
 			<div class="6u$ 12u$(small)">
 		        <h3>Hakka Language Documentation Project</h3>
-		        <p>Being a minor student in linguistics as part of my interest for Natural Language Processing, I took a module in Language Documentation where for our final submission we were tasked with using programs such as ELAN and FLEx to create a transcription and dictionary (respectively) of a heritage language in Singapore. To better present our end product, I exported the files in HTML and XHTML formats and did some tweaking to allow for search functionality, allow for audio to be played in the browser itself and linked the transcription and dictionary files together.</p>
+		        <p>Being a minor student in linguistics as part of my interest for Natural Language Processing, I took a module in Language Documentation where for our final submission we were tasked with using programs such as ELAN and FLEx to create a transcription and dictionary (respectively) of a heritage language in Singapore. To better present our end product, I exported the files in HTML and XHTML formats and did some tweaking to allow for search functionality, allow for audio to be played in the browser itself and linked the transcription and dictionary files together. Click the image to check out the project for yourself.</p>
 	        </div>	     
         </div>
         <div class="row">
