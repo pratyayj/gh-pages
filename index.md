@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-22, Singapore, studying Computer Science at the National University of Singapore, and also in the University Scholars Programme. People are my passion. I've but one hope and that is to leave the world in better place than how it was when I came here.
+23, Singapore, studying Computer Science at the National University of Singapore, and also in the University Scholars Programme. People, culture x art, and tech are my passions. I've but one hope and that is to leave the world in better place than how it was when I came here.
