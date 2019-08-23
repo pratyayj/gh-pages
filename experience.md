@@ -32,6 +32,7 @@ nav-menu: true
 				</ul>
 				</p>
 			</div>
+			<br>
 		</div>
 		<div class="row">
 			<div class="6u 12u$(small)">
