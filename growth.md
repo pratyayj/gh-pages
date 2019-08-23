@@ -53,8 +53,8 @@ nav-menu: true
             <hr />
         <div class="row">
             <div class="6u 12u$(small)">
-                <h3>Mentor, Connect Tuition and Mentorship Programme</h3>
-		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. In addition, we organise other co-curricular activities when the students are done with their academic year to pique the their interest in a variety of pursuits. I taught students the basics of photography and photo editing during one of these enrichment sessions.</p>
+                <h3>Connect Tuition and Mentorship Programme</h3>
+		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. After being a mentor for 3 runs, I transitioned to serving in the capacity of Programmes Coordinator where one of the hallmark events we organized was  an evening where our mentees had the chance to hear and learn from members of the USP community about their interests and pursuits outside of the classroom in a Human Library format. I currently serve as Co-Director, heading up all operational aspects and overseeing other intiatives and activities that run parallel to our weekly tutoring and mentoring.</p>
             </div>
             <div class="6u$ 12u$(small)">
                 <span class="image fit"><img src="assets/images/connect_y2s1.jpg" alt="" /></span>
