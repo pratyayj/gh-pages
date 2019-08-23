@@ -20,17 +20,17 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/stb_interns.jpg" alt="" width="400" height="400"/>
+				<img src="assets/images/stb_interns.jpg" alt="" width="640" height="480"/>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<h3>Technology Exploration Intern, Singapore Tourism Board</h3>
 				<p>
 					I was involved in full-stack development, creating the Android version of the prototype of an internal staff application. In addition, I was also involved with user-centric design thinking projects so as to complement my technical skills and develop a greater appreciation for the big picture.
-				</p>
 				<ul>
-					<li>Developing user-facing frontend interfaces for Android in Kotlin (used libraries such as Retrofit for working with APIs).</li>
-					<li>Developing a backend system using Ruby on Rails to automate a series of manual day-to-day tasks (worked with JBuilder for building the APIs, Sidekiq for background jobs, and used both ActiveRecords + vanilla SQL to work on the underlying Postgres database).</li>
+					<li>Developed user-facing frontend interfaces for Android in Kotlin (used libraries such as Retrofit for working with APIs).</li>
+					<li>Spearheaded a backend system using Ruby on Rails for a new feature to simplify equipment loans (worked with JBuilder for building the APIs, Sidekiq for background jobs, and used both ActiveRecords + vanilla SQL to work on the underlying Postgres database).</li>
 				</ul>
+				</p>
 			</div>
 		</div>
 		<div class="row">
