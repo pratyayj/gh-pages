@@ -22,20 +22,12 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <h3>Oracle Cloud Infrastructure 2018 Certified Architect Associate</h3>
-		        <p>Connect Tuition and Mentorship is a programme at the NUS University Scholars Programme, where undergraduate students teach and mentor students from communities neighbouring the university. After being a mentor for 3 runs, I transitioned to serving in the capacity of Programmes Coordinator where one of the hallmark events we organized was  an evening where our mentees had the chance to hear and learn from members of the USP community about their interests and pursuits outside of the classroom in a Human Library format. I currently serve as Co-Director, heading up all operational aspects and overseeing other intiatives and activities that run parallel to our weekly tutoring and mentoring.</p>
+		        <p>I've always been intrigued by the possibilities offered by the cloud and during the summer of 2019 I decided to take my first steps towards exploring where I might get myself involved by taking up certification in Oracle Cloud Infrastructure. It's only a start but I'm truly excited by the tremendous opportunities, particularly in confluence with art and culture - and so if you have any opportunities you wish to dive into with someone who shares a similar passion, look no further!</p>
             </div>
             <div class="6u$ 12u$(small)">
-                  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="37d4cc18-94c6-43c6-af36-4990bd33e51c"></div>
-                <script type="text/javascript">
-                    (function() {
-                    var s = document.createElement('script');
-                    s.type = 'text/javascript';
-                    s.async = true;
-                    s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-                    var o = document.getElementsByTagName('script')[0];
-                    o.parentNode.insertBefore(s, o);
-                    })();
-                </script>
+                <div class="iframe-container">
+                <span class="image fit"><a href="https://www.youracclaim.com/badges/37d4cc18-94c6-43c6-af36-4990bd33e51c/public_url"><img src="assets/images/OCI_cert.PNG" alt="" /></a></span>
+                </div>
             </div>
         </div>
         <hr />
