@@ -22,7 +22,7 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <h3>Oracle Cloud Infrastructure 2018 Certified Architect Associate</h3>
-		        <p>I've always been intrigued by the possibilities offered by the cloud and during the summer of 2019 I decided to take my first steps towards exploring where I might get myself involved by taking up certification in Oracle Cloud Infrastructure. It's only a start but I'm truly excited by the tremendous opportunities, particularly in confluence with art and culture - and so if you have any opportunities you wish to dive into with someone who shares a similar passion, look no further!</p>
+		        <p>I've always been intrigued by the possibilities offered by the cloud and so in the summer of 2019 I decided to dither no further, and took my first steps towards exploring where I might get myself involved by taking up certification in Oracle Cloud Infrastructure. It's only a start but I'm truly excited by the tremendous opportunities, particularly in confluence with art and culture - if you have any ideas you wish to dive into with someone who shares a similar passion, look no further!</p>
             </div>
             <div class="6u$ 12u$(small)">
                 <div class="iframe-container">
