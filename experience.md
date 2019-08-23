@@ -20,7 +20,7 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/stb_interns.jpg" alt="" width="640" height="480"/>
+				<img src="assets/images/stb_interns.jpg" alt="" />
 			</div>
 			<div class="6u$ 12u$(small)">
 				<h3>Technology Exploration Intern, Singapore Tourism Board</h3>
