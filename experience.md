@@ -20,6 +20,19 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
+				<img src="assets/images/stb_interns.png" alt="" width="400" height="400"/>
+			</div>
+			<div class="6u$ 12u$(small)">
+				<h3>Technology Exploration Intern, Singapore Tourism Board</h3>
+				<ul>
+					I was involved in full-stack development, creating the Android version of the prototype of an internal staff application. In addition, I was also involved with user-centric design thinking projects so as to complement my technical skills and develop a greater appreciation for the big picture.
+					<li>Developing user-facing frontend interfaces for Android in Kotlin (used libraries such as Retrofit for working with APIs).</li>
+					<li>Developing a backend system using Ruby on Rails to automate a series of manual day-to-day tasks (worked with JBuilder for building the APIs, Sidekiq for background jobs, and used both ActiveRecords + vanilla SQL to work on the underlying Postgres database).</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="6u 12u$(small)">
 				<img src="assets/images/sd.png" alt="" width="400" height="400"/>
 			</div>
 			<div class="6u$ 12u$(small)">
@@ -56,10 +69,13 @@ nav-menu: true
 				<div class="6u$ 12u$(small)">
 					<h3>University Scholars Programme, National University of Singapore</h3>
 					<ul>
+						<li>Co-Director, Connect Tuition and Mentorship Programme (12th Run)</li>
+						<li>Programmes Coordinator, Connect Tuition and Mentorship Programme (11th Run)</li>
 						<li>Publicity and Communications Leader, USP Ambassadors Executive Committee (EXCO).</li>
 						<li>Represented Singapore and NUS at the Education for Public Inquiry and International Citizenship (EPIIC) International Symposium at Tufts University in March 2018.</li>
+						<li>Recepient of the Ngee Ann Kongsi UTown Scholarship for the NUS Academic Year 2017/18</li>
 						<li>7th House Committee - Vice-Captain for Academic Year 2017/18.</li>
-						<li>Connect Tuition and Mentorship Programme</li>
+						<li>Mentor, Connect Tuition and Mentorship Programme (8th to 10th Runs)</li>
 						<li>End of Semester 1 Dinner Organizing Committee, Academic Year 2017/18.</li>
 						<li>Road Relay Interest Group.</li>
 					</ul>
