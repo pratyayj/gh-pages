@@ -36,6 +36,7 @@ nav-menu: true
 			<br>
 			<br>
 		</div>
+		<br>
 		<div class="row">
 			<div class="6u 12u$(small)">
 				<img src="assets/images/stb_interns.jpg" alt="" />
@@ -53,6 +54,7 @@ nav-menu: true
 			<br>
 			<br>
 		</div>
+		<br>
 		<div class="row">
 			<div class="6u 12u$(small)">
 				<img src="assets/images/sd.png" alt="" width="400" height="400"/>

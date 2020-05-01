@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Projects
-image: assets/images/orbital.jpg
+image: assets/images/hakka_proj.jpg
 nav-menu: true
 ---
 <!-- orignally generic -->
