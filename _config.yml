@@ -18,7 +18,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://gitlab.com/u/pratyayj
+github_url: https://github.com/pratyayj
 gitlab_url:
 googleplus_url:
 instagram_url:
@@ -26,6 +26,7 @@ linkedin_url: https://www.linkedin.com/in/pratyayj
 pinterest_url:
 slack_url:
 twitter_url:
+medium_url: https://medium.com/@pratyay.jaidev
 
 # build settings
 markdown: kramdown

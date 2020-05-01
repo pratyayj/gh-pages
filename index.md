@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-23, Singapore, studying Computer Science at the National University of Singapore, and also in the University Scholars Programme. People, culture x art, and tech are my passions. I've but one hope and that is to leave the world in better place than how it was when I came here.
+24, Singapore, majoring in Computer Science at the National University of Singapore with a minor in English Language (Linguistics), and part of the University Scholars Programme. I'm a firm believer in the possibilities enabled by the cloud, inspired by the potential of working in multi-disciplinary teams and carry a keen interest of bringing tech to the arts & culture space.
