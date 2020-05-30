@@ -18,6 +18,15 @@ nav-menu: true
 <!-- Content -->
 		<div class="row">
             <div class="6u 12u$(small)">
+		        <span class="image fit"><img src="assets/images/nususp_ams.png" alt="" /></span>
+	        </div>    
+			<div class="6u$ 12u$(small)">
+		        <h3>NUS USP Ambassadors Management System (AMS)</h3>
+		        <p>Being an executive committee member in charge of publicity and communications, I noted the difficulties of manually tracking the involvement and training requirements of the ambassadors in the team. Speaking to the admin staff in charge of the programme, she retiterated these concerns and suggested some features that a hypothetical management system could have. With that in mind, I went about building an MVP version of such a system using Vue + Node.js. In this proof of concept, an administrator can manage USP outreach events and ambassador details while ambassadors can sign up for events and keep track of their involvement. The <a href="http://nususp-ams-demo.pratyayj.com">demo version</a> of this site is currently hosted on OCI with AWS Lambda + API Gateway serving static files from S3. Please contact me if you would like to take the system for a spin.</p>
+	        </div>	     
+        </div>
+		<div class="row">
+            <div class="6u 12u$(small)">
 		        <span class="image fit"><img src="assets/images/restaurant-booking-app.PNG" alt="" /></span>
 	        </div>    
 			<div class="6u$ 12u$(small)">
