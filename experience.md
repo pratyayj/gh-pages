@@ -20,13 +20,14 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/soc.JPG" alt="" />
+				<img src="assets/images/ngs.jpg" alt="" />
 			</div>
 			<div class="6u$ 12u$(small)">
-				<h3>Teaching Assistant, National Univeristy of Singapore</h3>
+				<h3>Co:LabX Intern, National Gallery Singapore</h3>
 				<p>
 				<ul>
-					<li>Enabled the smooth conduct of the 120-student enrolled module, Software Engineering Principles and Patterns. Topics covered include design principles & patterns, software architectures such as microservices and n-tier, and SDLC practices such as DevOps and CI/CD.</li>
+					<li>Authored a proposal for the creation of open APIs to enable ecosystem partners and entrepreneurs actualize the Gallery’s vision of imaginatively harnessing the power of digital technology to enhance the art, visitor, and work experiences.</li>
+					<li>Conducted research into novel ways of engaging visitors such as through the organization of hybrid physical-digital (phygital) festivals, and the deployment of chatbots.</li>
 				</ul>
 				</p>
 			</div>
@@ -36,14 +37,13 @@ nav-menu: true
 		<br>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/ngs.jpg" alt="" />
+				<img src="assets/images/soc.JPG" alt="" />
 			</div>
 			<div class="6u$ 12u$(small)">
-				<h3>Co:LabX Intern, National Gallery Singapore</h3>
+				<h3>Teaching Assistant, National Univeristy of Singapore</h3>
 				<p>
 				<ul>
-					<li>Authored a proposal for the creation of open APIs to enable ecosystem partners and entrepreneurs actualize the Gallery’s vision of imaginatively harnessing the power of digital technology to enhance the art, visitor, and work experiences.</li>
-					<li>Conducted research into novel ways of engaging visitors such as through the organization of hybrid physical-digital (phygital) festivals, and the deployment of chatbots.</li>
+					<li>Enabled the smooth conduct of the 120-student enrolled module, Software Engineering Principles and Patterns. Topics covered include design principles & patterns, software architectures such as microservices and n-tier, and SDLC practices such as DevOps and CI/CD.</li>
 				</ul>
 				</p>
 			</div>
