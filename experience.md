@@ -20,6 +20,23 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
+				<img src="assets/images/ngs.jpg" alt="" />
+			</div>
+			<div class="6u$ 12u$(small)">
+				<h3>Co:LabX Intern, National Gallery Singapore</h3>
+				<p>
+				<ul>
+					<li>Authored a proposal for the creation of open APIs to enable ecosystem partners and entrepreneurs actualize the Gallery’s vision of imaginatively harnessing the power of digital technology to enhance the art, visitor, and work experiences.</li>
+					<li>Conducted research into novel ways of engaging visitors such as through the organization of hybrid physical-digital (phygital) festivals, and the deployment of chatbots.</li>
+				</ul>
+				</p>
+			</div>
+			<br>
+			<br>
+		</div>
+		<br>
+		<div class="row">
+			<div class="6u 12u$(small)">
 				<img src="assets/images/erium.jpg" alt="" />
 			</div>
 			<div class="6u$ 12u$(small)">
@@ -45,7 +62,7 @@ nav-menu: true
 				<h3>Technology Exploration Intern, Singapore Tourism Board</h3>
 				<p>
 				<ul>
-					<li>Full-stack app development of prototype staff app to be used by 500 employees in the organization, in design thinking sprints</li>
+					<li>Full-stack app development of prototype staff app to be used by 500 employees in the organization, in design thinking sprints.</li>
 					<li>Developed user-facing frontend interfaces for Android in Kotlin (used libraries such as Retrofit for working with APIs).</li>
 					<li>Spearheaded a backend system using Ruby on Rails for a new feature to simplify equipment loans (worked with JBuilder for building the APIs, Sidekiq for background jobs, and used both ActiveRecords + vanilla SQL to work on the underlying Postgres database).</li>
 				</ul>
