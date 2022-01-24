@@ -20,6 +20,20 @@ nav-menu: true
 <h2 id="content">Work</h2>
 		<div class="row">
 			<div class="6u 12u$(small)">
+				<img src="assets/images/salesforce.png" alt="" />
+			</div>
+			<div class="6u$ 12u$(small)">
+				<h3>Associate, Success Graduate, Salesforce</h3>
+				<p>
+				Enabling customers in JAPAC to transform their business by maximising their use of MuleSoft and the Anypoint Platform, through Professional Services offerings.
+				</p>
+			</div>
+			<br>
+			<br>
+		</div>
+		<br>
+		<div class="row">
+			<div class="6u 12u$(small)">
 				<img src="assets/images/ngs.jpg" alt="" />
 			</div>
 			<div class="6u$ 12u$(small)">
