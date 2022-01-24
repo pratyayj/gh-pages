@@ -1,7 +1,7 @@
 # site settings
 title: Pratyay Jaidev
 subtitle:
-email: pratyay.jaidev@gmail.com
+email: pratyay [dot] jaidev [at] gmail [dot] com
 description: Focused, driven, people-oriented.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
